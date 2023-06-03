@@ -1,4 +1,4 @@
-# Chen Cecilia Liu's personal website
+# Lei M. Zhang's's personal website
 
 This webpage is based on [Grant McDermot website](https://github.com/grantmcdermott/grantmcdermott.github.io), which, in turn, is based on Minimal Mistakes theme.
 

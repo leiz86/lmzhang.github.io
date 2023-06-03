@@ -1,30 +1,20 @@
 ---
 layout: page #was "home", but I don't need the latest blog feed template on the homepage
-title: Chen Cecilia Liu
-excerpt: "The personal website of Chen Cecilia Liu."
-tags: [Jekyll, theme, template, research, NLP]
+title: Lei M. Zhang
+excerpt: "The personal website of Lei M. Zhang."
+tags: [Jekyll, theme, template, research, ML, AI]
 ---
 
-I am a second year [ELLIS Ph.D.](https://ellis.eu/) at [TU Darmstadt](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp) ([UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)), Germany and the University of Cambridge, UK.
-I am supervised by [Prof. Iryna Gurevych](https://scholar.google.com/citations?user=t3A39e8AAAAJ&hl=en) and [Prof. Anna Korhonen](https://sites.google.com/site/annakorhonen/).
+I am a Senior Research Scientist at [Google Deepmind](https://deepmind.com/) in Montreal. Before Deepmind, I was a Member of Technical Staff at [OpenAI](https://openai.com).
 
-I obtained my undergraduate and master's degrees from the University of Toronto (Toronto ML Group). My master's research was under the supervision of Prof. Brendan Frey ([PSI Lab](https://psi.toronto.edu/)).
+I am interested in using large-scale reinforcement learning (RL) to train highly general agents. In particular, my work have focused on using curricula with meta-RL techniques to train agents with emergent capabilities such as sim-to-real transfer [P1](https://arxiv.org/pdf/1910.07113), social learning [P2](https://arxiv.org/pdf/2203.00715), and human time-scale adaptation [P3](https://arxiv.org/pdf/2301.07608).
 
-I have been working in the industry for nearly a decade in the domain of NLP before I went back to school. 
-I worked at Canadian start-ups like Meta (acquired by CZI), Wattpad (acquired by NAVER), and ElementAI.
-
-I have research interests in both NLP and ML. 
-I am interested in efficient methods that help with multi-lingual transfers and the utilization of multi-modal information [[P4](https://arxiv.org/abs/2210.06379), [P6](https://arxiv.org/abs/2202.07630), [P7](https://arxiv.org/abs/2301.05487)]. 
-In particular, I use the perspective of distribution shifts/out-of-distribution generalization [P6, P7] to tackle problems in those areas. 
-I also study and create datasets for figurative expressions [P5]. 
-
-Reach out if you’re interested in collaborating or chat about research, start-ups, or cats.
+Please reach out if you’re interested in collaborating or chat.
 
 #### Recent News:
-* Apr 2023: Invited to review for NeurIPs 2023.
-* Feb 2023: I am reviewing for ACL 2023.
-* Jan 2023: Paper accepted at EACL 2023.
-* Oct 2022: Paper accepted at EMNLP 2022.
+* Apr 2023: Paper accepted to ICML 2023.
+* Feb 2023: Public release of "Human-timescale Adaptation in an Open-ended Task Space".
+* Jun 2022: Public release of "Learning Robust Real-Time Cultural Transmission without Human Data".
 
 <!--
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>.</p>
