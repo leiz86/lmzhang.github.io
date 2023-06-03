@@ -9,13 +9,17 @@ comments: false
 ## Selected Publications
 
 P3. [Human-Timescale Adaptation in an Open-Ended Task Space](https://arxiv.org/pdf/2301.07608)<br/>
-Adaptive Agents Team, Google Deepmind. Accepted at ICML 2023.
+Adaptive Agents Team, Google Deepmind. Accepted at ICML 2023.<br/>
+[video](https://www.youtube.com/watch?v=U93bUQ1roiw) [website](https://sites.google.com/view/adaptive-agent)
 
 P2. [Learning Robust Real-Time Cultural Transmission without Human Data](https://arxiv.org/pdf/2203.00715)<br/>
-Cultural General Intelligence Team, Google Deepmind. Under review 2022.
+Cultural General Intelligence Team, Google Deepmind. Under review 2022.<br/>
+[website](https://sites.google.com/view/dm-cgi)
 
 P1. [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113)<br/> 
-Robotics Team, OpenAI. 2019.
+Robotics Team, OpenAI. 2019.<br/>
+[video](https://www.youtube.com/watch?v=x4O8pojMF0w) [blog](https://openai.com/research/solving-rubiks-cube)
+
 
 
 <!-- ## Services
